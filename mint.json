@@ -89,3 +89,9 @@
     "linkedin": "https://linkedin.com/company/mintlify"
   }
 }
+{
+    "authentication": {
+        "enabled": true,
+        "type": "basic" // or another preferred authentication method
+    }
+}
